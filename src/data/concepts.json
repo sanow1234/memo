@@ -1,0 +1,14 @@
+[
+  { "id": "variables-types", "label": "변수와 자료형", "order": 1 },
+  { "id": "input-output", "label": "입력과 출력", "order": 2 },
+  { "id": "arithmetic", "label": "산술 연산자", "order": 3 },
+  { "id": "comparison-logic", "label": "비교 및 논리 연산자", "order": 4 },
+  { "id": "conditionals", "label": "조건문", "order": 5 },
+  { "id": "loops", "label": "반복문", "order": 6 },
+  { "id": "nested-loops", "label": "중첩 반복문", "order": 7 },
+  { "id": "strings", "label": "문자열", "order": 8 },
+  { "id": "lists", "label": "리스트", "order": 9 },
+  { "id": "tuples", "label": "튜플", "order": 10 },
+  { "id": "dictionaries", "label": "딕셔너리", "order": 11 },
+  { "id": "functions", "label": "함수", "order": 12 }
+]
